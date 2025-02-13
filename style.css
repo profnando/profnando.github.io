@@ -1,3 +1,4 @@
-.text-left {
-    text-align: left;
-  }
+.cartao{
+display: flex;
+   justify-content: space-between;
+}
