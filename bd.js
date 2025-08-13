@@ -33,7 +33,7 @@ const ano2 = [
         link: "https://www.canva.com/design/DAGvTcSKsA8/AoNxEa02SbzOw4elKRjvNA/view"
     },
     {
-        img: "dentes.jpeg",
+        img: "dentes.jpg",
         titulo: "Td - Sistema digestivo",
         descricao: "Faça no caderno",
         link: "https://docs.google.com/document/d/1gaF42VMtiYlzzy765ECLvYsCgUHRhJZbjo14hDfCovk/edit?usp=sharing"
