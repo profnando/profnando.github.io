@@ -46,5 +46,11 @@ const ano3 = [
         titulo: "Questões sobre ácido nucleico (sem cálculos)",
         descricao: "",
         link: "https://docs.google.com/document/d/1rb-pP7B0keo_UMAaJ7PLGecG5UFDAexP9C67zmE38ho/edit?usp=sharing"
+    },
+    {
+        img: "dna.jpeg",
+        titulo: "Questões sobre ácido nucleico envolvendo cálculos",
+        descricao: "",
+        link: "https://www.canva.com/design/DAGwAPuYaZQ/1aXhgTYEZhD48nJfF1Mv-Q/view?utm_content=DAGwAPuYaZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70bad97207"
     }
 ]
