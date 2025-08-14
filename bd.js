@@ -48,7 +48,7 @@ const ano3 = [
         link: "https://docs.google.com/document/d/1rb-pP7B0keo_UMAaJ7PLGecG5UFDAexP9C67zmE38ho/edit?usp=sharing"
     },
     {
-        img: "dna.jpg",
+        img: "DNA.jpg",
         titulo: "Questões sobre ácido nucleico envolvendo cálculos",
         descricao: "",
         link: "https://www.canva.com/design/DAGwAPuYaZQ/1aXhgTYEZhD48nJfF1Mv-Q/view?utm_content=DAGwAPuYaZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70bad97207"
