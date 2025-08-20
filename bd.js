@@ -22,6 +22,11 @@ const ano1 = [
         titulo: "Transporte através da membrana plasmática",
         descricao: "Transporte Ativo",
         link: "https://www.canva.com/design/DAGvxYCQ4M8/iMZl0ydsrDgb3TqzANcKzQ/view?utm_content=DAGvxYCQ4M8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4bee63059d"
+    }, {
+        img: "a.png",
+        titulo: "Atividade",
+        descricao: "Transporte via membrana plasmática",
+        link: "https://docs.google.com/document/d/1HYAo1GpwTgxnOZtSv8SgwRuw-S06JF4_fLC3nCtPDWc/edit?usp=sharing"
     }
 ]
 
