@@ -22,11 +22,16 @@ const ano1 = [
         titulo: "Transporte através da membrana plasmática",
         descricao: "Transporte Ativo",
         link: "https://www.canva.com/design/DAGvxYCQ4M8/iMZl0ydsrDgb3TqzANcKzQ/view?utm_content=DAGvxYCQ4M8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4bee63059d"
-    }, {
-        img: "a.png",
+    },{
+        img: "cell.png",
         titulo: "Atividade",
         descricao: "Transporte via membrana plasmática",
         link: "https://docs.google.com/document/d/1HYAo1GpwTgxnOZtSv8SgwRuw-S06JF4_fLC3nCtPDWc/edit?usp=sharing"
+    },{
+        img: "Citoplasma.png",
+        titulo: "Citoplasma",
+        descricao: "Transporte via membrana plasmática",
+        link: "https://www.canva.com/design/DAGwm0wWfYU/f9_K4KNWlMH9f7ptq1bITg/view?utm_content=DAGwm0wWfYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2051bca779"
     }
 ]
 
@@ -42,7 +47,12 @@ const ano2 = [
         titulo: "Td - Sistema digestivo",
         descricao: "Faça no caderno",
         link: "https://docs.google.com/document/d/1gaF42VMtiYlzzy765ECLvYsCgUHRhJZbjo14hDfCovk/edit?usp=sharing"
-    },
+    },{
+        img: "Sistema respiratório.png",
+        titulo: "Sistema respiratório",
+        descricao: "",
+        link: "https://www.canva.com/design/DAGwEXAsLSI/gn0NU3XvpTaFW-PhzLjBkg/view?utm_content=DAGwEXAsLSI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87a816b150"
+    }
 ]
 
 const ano3 = [
