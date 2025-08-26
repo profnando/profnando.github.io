@@ -67,5 +67,11 @@ const ano3 = [
         titulo: "Questões sobre ácidos nucleicos envolvendo cálculos",
         descricao: "",
         link: "https://www.canva.com/design/DAGwAPuYaZQ/1aXhgTYEZhD48nJfF1Mv-Q/view?utm_content=DAGwAPuYaZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70bad97207"
+},
+    {
+        img: "protein.jpg",
+        titulo: "Slides síntese proteíca",
+        descricao: "",
+        link:"https://www.canva.com/design/DAGxGDCLKiw/RRbB6DvWtIGK_sVLI6D_dA/view?utm_content=DAGxGDCLKiw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7981248c8a"
     }
 ]
