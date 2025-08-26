@@ -68,10 +68,15 @@ const ano3 = [
         descricao: "",
         link: "https://www.canva.com/design/DAGwAPuYaZQ/1aXhgTYEZhD48nJfF1Mv-Q/view?utm_content=DAGwAPuYaZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70bad97207"
 },
-    {
+{
         img: "protein.jpg",
         titulo: "Slides síntese proteíca",
         descricao: "",
         link:"https://www.canva.com/design/DAGxGDCLKiw/RRbB6DvWtIGK_sVLI6D_dA/view?utm_content=DAGxGDCLKiw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7981248c8a"
-    }
+},{
+        img: "caderno.jpg",
+        titulo: "Atividade síntese proteíca",
+        descricao: "Faça no caderno, vale ponto de atividades e serve como revisão para a prova",
+        link: "https://docs.google.com/document/d/17l_htInwKOQgYPFfDZz-sSAIcwa7wTtYrO5FYcne4A8/edit?usp=sharing"
+}
 ]
