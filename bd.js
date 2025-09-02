@@ -33,7 +33,7 @@ const ano1 = [
         descricao: "Transporte via membrana plasmática",
         link: "https://www.canva.com/design/DAGwm0wWfYU/f9_K4KNWlMH9f7ptq1bITg/view?utm_content=DAGwm0wWfYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2051bca779"
     },{
-        img: "ovogenese.png",
+        img: "ovulogênese.png",
         titulo: "Ovogênese e foliculogênese",
         descricao: "Exclusivo para enfermagem e sim é o mesmo slide do 2° ano",
         link: "https://www.canva.com/design/DAGxvewuVcQ/fQm7OX_8gq-5u9ytKvp8pw/view?utm_content=DAGxvewuVcQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h694cd967b3"
@@ -58,7 +58,7 @@ const ano2 = [
         descricao: "",
         link: "https://www.canva.com/design/DAGwEXAsLSI/gn0NU3XvpTaFW-PhzLjBkg/view?utm_content=DAGwEXAsLSI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87a816b150"
     },{
-        img: "ovogenese.png",
+        img: "ovulogênese.png",
         titulo: "Ovogênese e foliculogênese",
         descricao: "Exclusivo para enfermagem e sim é o mesmo slide do 1° ano",
         link: "https://www.canva.com/design/DAGxvewuVcQ/fQm7OX_8gq-5u9ytKvp8pw/view?utm_content=DAGxvewuVcQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h694cd967b3"
