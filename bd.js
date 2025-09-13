@@ -37,6 +37,11 @@ const ano1 = [
         titulo: "Ovogênese e foliculogênese",
         descricao: "Exclusivo para enfermagem e sim é o mesmo slide do 2° ano",
         link: "https://www.canva.com/design/DAGxvewuVcQ/fQm7OX_8gq-5u9ytKvp8pw/view?utm_content=DAGxvewuVcQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h694cd967b3"
+    },{
+        img: "mitocondria.png",
+        titulo: "Td - revisão",
+        descricao: "organelas citoplasmáticas",
+        link: "https://docs.google.com/document/d/1_H_qGEeAeizChtPOMlIKcHQlnfwtXe2g0evm9ruta9I/edit?usp=sharing"
     }
 ]
 
@@ -62,6 +67,11 @@ const ano2 = [
         titulo: "Ovogênese e foliculogênese",
         descricao: "Exclusivo para enfermagem e sim é o mesmo slide do 1° ano",
         link: "https://www.canva.com/design/DAGxvewuVcQ/fQm7OX_8gq-5u9ytKvp8pw/view?utm_content=DAGxvewuVcQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h694cd967b3"
+      },{
+        img: "pulmao.jpg",
+        titulo: "TD - sistema respiratório",
+        descricao: "Revisão para a parcial",
+        link: "https://docs.google.com/document/d/1TdmJ2NBSK0EodVVuhjkIpIqPLZ_hDXzO/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
       }
 ]
 
