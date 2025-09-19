@@ -47,6 +47,11 @@ const ano1 = [
         titulo: "Atividade embriologia - Apenas para enfermagem",
         descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui!",
         link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
+    },{
+        img: "nucleo.png",
+        titulo: "Núcleo celular",
+        descricao: "",
+        link: "https://www.canva.com/design/DAGyknHBoJE/1Tmuy9Gg7Lax9jNmHxITqg/view?utm_content=DAGyknHBoJE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb04f80502a"
     }
 ]
 
@@ -108,5 +113,10 @@ const ano3 = [
         titulo: "Atividade síntese proteíca",
         descricao: "Faça no caderno, vale ponto de atividades e serve como revisão para a prova",
         link: "https://docs.google.com/document/d/17l_htInwKOQgYPFfDZz-sSAIcwa7wTtYrO5FYcne4A8/edit?usp=sharing"
+},{
+        img: "genetica.png",
+        titulo: "Genética",
+        descricao: "Termos e questões",
+        link: "https://www.canva.com/design/DAGzEKkJFiI/v3A5R6NGUijOCUtC712Hhg/view?utm_content=DAGzEKkJFiI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1aabdca943"
 }
 ]
