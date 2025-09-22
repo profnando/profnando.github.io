@@ -87,7 +87,12 @@ const ano2 = [
         titulo: "Atividade embriologia - Apenas para enfermagem",
         descricao: "Essa atividade é do segundo ano, se você é do primeiro, saia daqui!",
         link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
-    },
+    },{
+        img: "Sistema circulatório.png",
+        titulo: "Sistema circulatório",
+        descricao: "Slides com atividades de revisão",
+        link: "https://www.canva.com/design/DAFCT3OJN-Q/4eKALciOIcYTCTRnFQ9g1A/view?utm_content=DAFCT3OJN-Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c69e1be07"
+    }
 ]
 
 const ano3 = [
