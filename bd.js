@@ -92,6 +92,16 @@ const ano2 = [
         titulo: "Sistema circulatório",
         descricao: "Slides com atividades de revisão",
         link: "https://www.canva.com/design/DAFCT3OJN-Q/4eKALciOIcYTCTRnFQ9g1A/view?utm_content=DAFCT3OJN-Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c69e1be07"
+    },{
+        img: "Sistema endócrino.png",
+        titulo: "Sistema endócrino",
+        descricao: "",
+        link: "https://www.canva.com/design/DAG1MtHMHqs/pUyZXffJ-XcBxIV0Wse_lQ/view?utm_content=DAG1MtHMHqs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h354e86f27d"
+    },{
+        img: "Fecundação e desenvolvimento embrionário.png",
+        titulo: "Fecundação e desenvolvimento embrionário",
+        descricao: "",
+        link: "https://www.canva.com/design/DAG1CJgFXO8/6NCg4EySU7UKruoIUohjlA/view?utm_content=DAG1CJgFXO8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6e2d361ab"
     }
 ]
 
