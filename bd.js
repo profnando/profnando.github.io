@@ -100,7 +100,7 @@ const ano2 = [
     },{
         img: "Fecundação e desenvolvimento embrionário.png",
         titulo: "Fecundação e desenvolvimento embrionário",
-        descricao: "",
+        descricao: "Conteúdo exclusivo para a turma de enfermagem",
         link: "https://www.canva.com/design/DAG1CJgFXO8/6NCg4EySU7UKruoIUohjlA/view?utm_content=DAG1CJgFXO8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6e2d361ab"
     }
 ]
