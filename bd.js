@@ -12,12 +12,12 @@ const ano1 = [
     },{
         img: "nucleo.png",
         titulo: "Núcleo celular",
-        descricao: "",
+        descricao: "Estruturas do núcleo, cromossomos e alterações cromossômicas",
         link: "https://www.canva.com/design/DAGyknHBoJE/1Tmuy9Gg7Lax9jNmHxITqg/view?utm_content=DAGyknHBoJE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb04f80502a"
     },{
         img: "embrio1.jpeg",
         titulo: "Atividade embriologia - Apenas para enfermagem",
-        descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui!. <b> Data de entrega: 05/nov </b>",
+        descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui! <b> Data de entrega: 05/nov </b>",
         link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     }
 ]
