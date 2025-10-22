@@ -14,6 +14,11 @@ const ano1 = [
         titulo: "Núcleo celular",
         descricao: "",
         link: "https://www.canva.com/design/DAGyknHBoJE/1Tmuy9Gg7Lax9jNmHxITqg/view?utm_content=DAGyknHBoJE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb04f80502a"
+    },{
+        img: "embrio1.jpeg",
+        titulo: "Atividade embriologia - Apenas para enfermagem",
+        descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui!. <b> Data de entrega: 05/nov </b>",
+        link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     }
 ]
 
@@ -38,6 +43,11 @@ const ano2 = [
         titulo: "Sistema endócrino",
         descricao: "",
         link: "https://www.canva.com/design/DAG1MtHMHqs/pUyZXffJ-XcBxIV0Wse_lQ/view?utm_content=DAG1MtHMHqs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h354e86f27d"
+    },{
+        img: "embrio2.jpeg",
+        titulo: "Atividade embriologia - Apenas para enfermagem",
+        descricao: "Essa atividade é do segundo ano, se você é do primeiro, saia daqui!",
+        link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     }
 ]
 
