@@ -72,6 +72,6 @@ const ano3 = [
         img: "Padrões de herança não mendelianos.png",
         titulo: "Padrões de herança não mendelianos",
         descricao: "Créditos: Vládia Pereira",
-        link: "ttps://www.canva.com/design/DAG16a_pRXs/KmTvp-jkchTMDpso577GQQ/edit?utm_content=DAG16a_pRXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        link: "https://www.canva.com/design/DAG16a_pRXs/KmTvp-jkchTMDpso577GQQ/edit?utm_content=DAG16a_pRXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     },
 ]
