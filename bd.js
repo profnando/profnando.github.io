@@ -51,8 +51,8 @@ const ano2 = [
     },{
         img: "revisão.webp",
         titulo: "Atividade de sistema endócrino",
-        descricao: "https://docs.google.com/document/d/1fjr0duYfueJM63xXRJTjNktZmqMx5SGT/edit?usp=drivesdk&ouid=113421151775825196689&rtpof=true&sd=true",
-        link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
+        descricao: "",
+        link: "https://docs.google.com/document/d/1fjr0duYfueJM63xXRJTjNktZmqMx5SGT/edit?usp=drivesdk&ouid=113421151775825196689&rtpof=true&sd=true"
     }
 ]
 
