@@ -84,7 +84,7 @@ const ano3 = [
         descricao: "Créditos: Vládia Pereira",
         link: "https://www.canva.com/design/DAG2ij7qDj4/_UEHGE1DiTiE4hyxjxllMw/edit?utm_content=DAG2ij7qDj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     },{
-        img: "Soros e vacinas Aulão enem.png",
+        img: "Soros e vacinas - Aulão enem.png",
         titulo: "Soros e vacinas Aulão enem",
         descricao: "",
         link: "https://www.canva.com/design/DAG3FFpkz9E/DcxFRHuO-LxpzyBvudwe8A/edit?utm_content=DAG3FFpkz9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
