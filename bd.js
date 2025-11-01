@@ -49,7 +49,7 @@ const ano2 = [
         descricao: "Essa atividade é do segundo ano, se você é do primeiro, saia daqui!",
         link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     },{
-        img: "revisao.webp",
+        img: "tireoide.jpg",
         titulo: "Atividade de sistema endócrino",
         descricao: "",
         link: "https://docs.google.com/document/d/1fjr0duYfueJM63xXRJTjNktZmqMx5SGT/edit?usp=drivesdk&ouid=113421151775825196689&rtpof=true&sd=true"
@@ -78,5 +78,15 @@ const ano3 = [
         titulo: "Padrões de herança não mendelianos",
         descricao: "Créditos: Vládia Pereira",
         link: "https://www.canva.com/design/DAG16a_pRXs/KmTvp-jkchTMDpso577GQQ/edit?utm_content=DAG16a_pRXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    },
+    },{
+        img: "Herança ligada ao sexo.png",
+        titulo: "Herança ligada ao sexo",
+        descricao: "Créditos: Vládia Pereira",
+        link: "https://www.canva.com/design/DAG2ij7qDj4/_UEHGE1DiTiE4hyxjxllMw/edit?utm_content=DAG2ij7qDj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },{
+        img: "Soros e vacinas Aulão enem.png",
+        titulo: "Soros e vacinas Aulão enem",
+        descricao: "",
+        link: "https://www.canva.com/design/DAG3FFpkz9E/DcxFRHuO-LxpzyBvudwe8A/edit?utm_content=DAG3FFpkz9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    }
 ]
