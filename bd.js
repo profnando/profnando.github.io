@@ -20,6 +20,11 @@ const ano1 = [
         descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui! <b> Data de entrega: 05/nov </b>",
         link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     },{
+        img: "Fecundação e desenvolvimento embrionário.png",
+        titulo: "Fecundação e desenvolvimento embrionário",
+        descricao: "Conteúdo exclusivo para a turma de enfermagem",
+        link: "https://www.canva.com/design/DAG1CJgFXO8/6NCg4EySU7UKruoIUohjlA/view?utm_content=DAG1CJgFXO8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6e2d361ab"
+    },{
         img: "divisão celular.png",
         titulo: "Divisão celular,
         descricao: "Ciclo celular, mitose e meiose",
