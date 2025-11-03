@@ -19,6 +19,11 @@ const ano1 = [
         titulo: "Atividade embriologia - Apenas para enfermagem",
         descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui! <b> Data de entrega: 05/nov </b>",
         link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
+    },{
+        img: "divisão celular.png",
+        titulo: "Divisão celular,
+        descricao: "Ciclo celular, mitose e meiose",
+        link: "https://www.canva.com/design/DAG3YDQgxa4/O5Ea02m251t_EfuB0rgh-A/view?utm_content=DAG3YDQgxa4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a14edbef6"
     }
 ]
 
@@ -88,5 +93,10 @@ const ano3 = [
         titulo: "Soros e vacinas Aulão enem",
         descricao: "",
         link: "https://www.canva.com/design/DAG3FFpkz9E/DcxFRHuO-LxpzyBvudwe8A/edit?utm_content=DAG3FFpkz9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },{
+        img: "biotecnologia.png",
+        titulo: "Biotecnologia - Aulão enem",
+        descricao: "",
+        link: "https://www.canva.com/design/DAFzsBhY_yU/leIgO2B21dOjJoGbsMSC2g/view?utm_content=DAFzsBhY_yU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c6e0c7dbb"
     }
 ]
