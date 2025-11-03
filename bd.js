@@ -26,7 +26,7 @@ const ano1 = [
         link: "https://www.canva.com/design/DAG1CJgFXO8/6NCg4EySU7UKruoIUohjlA/view?utm_content=DAG1CJgFXO8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6e2d361ab"
     },{
         img: "divisão celular.png",
-        titulo: "Divisão celular,
+        titulo: "Divisão celular",
         descricao: "Ciclo celular, mitose e meiose",
         link: "https://www.canva.com/design/DAG3YDQgxa4/O5Ea02m251t_EfuB0rgh-A/view?utm_content=DAG3YDQgxa4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a14edbef6"
     }
