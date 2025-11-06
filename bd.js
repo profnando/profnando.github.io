@@ -63,6 +63,11 @@ const ano2 = [
         titulo: "Atividade de sistema endócrino",
         descricao: "",
         link: "https://docs.google.com/document/d/1fjr0duYfueJM63xXRJTjNktZmqMx5SGT/edit?usp=drivesdk&ouid=113421151775825196689&rtpof=true&sd=true"
+    },{
+        img: "Sistema reprodutor.png",
+        titulo: "Sistema reprodutor",
+        descricao: "",
+        link: "https://www.canva.com/design/DAG31tcQBis/OEtUHRpDufEwuFRlCbbwhw/view?utm_content=DAG31tcQBis&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb42eebef5e"
     }
 ]
 
@@ -101,7 +106,12 @@ const ano3 = [
     },{
         img: "biotecnologia.png",
         titulo: "Biotecnologia - Aulão enem",
-        descricao: "",
+        descricao: "Aulão enem",
         link: "https://www.canva.com/design/DAFzsBhY_yU/leIgO2B21dOjJoGbsMSC2g/view?utm_content=DAFzsBhY_yU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c6e0c7dbb"
+    },{
+        img: "Revisão de vertebrados.png",
+        titulo: "Revisão de vertebrados - Aulão enem",
+        descricao: "Aulão enem",
+        link: "https://www.canva.com/design/DAFyadVSPac/sG20Zc0SOMMg3X3RMWkjwA/view?utm_content=DAFyadVSPac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha642dc2a00"
     }
 ]
