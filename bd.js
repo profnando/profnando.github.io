@@ -30,7 +30,7 @@ const ano1 = [
         descricao: "Ciclo celular, mitose e meiose",
         link: "https://www.canva.com/design/DAG3YDQgxa4/O5Ea02m251t_EfuB0rgh-A/view?utm_content=DAG3YDQgxa4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a14edbef6"
     },{
-        img: "book.png",
+        img: "book.jpg",
         titulo: "Exercício sobre cromossomos e alterações cromossômicas",
         descricao: "Atividade passada em sala",
         link: "https://docs.google.com/document/d/17jH9-MrDudKZzVutMrX_5cHsM15zwvDXJ9wOMH9mTOo/edit?usp=sharing"
