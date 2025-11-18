@@ -118,5 +118,15 @@ const ano3 = [
         titulo: "Revisão de vertebrados - Aulão enem",
         descricao: "Aulão enem",
         link: "https://www.canva.com/design/DAFyadVSPac/sG20Zc0SOMMg3X3RMWkjwA/view?utm_content=DAFyadVSPac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha642dc2a00"
+    },{
+        img: "sangue.png",
+        titulo: "Atividade - Tipo sanguíneos",
+        descricao: "Continuação de genética",
+        link: "https://docs.google.com/document/d/1_0YtuveoFJcDfT9jpZJlNJI1uF_VMNuN0ZcorjYzBRA/edit?usp=sharing"
+    },{
+        img: "atp.png",
+        titulo: "Atividades de metabolismo energético",
+        descricao: "Atividade específica para a 2° fase da uece, para as fofuras que estão tentando um curso na área da saúde na uece",
+        link: "https://docs.google.com/document/d/1gtJNZ9os2nAKGbE1STas8a4jSHvSUEbN1d83iVv1nVg/edit?usp=sharing"
     }
 ]
