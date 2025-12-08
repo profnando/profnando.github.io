@@ -10,11 +10,6 @@ const ano1 = [
         descricao: "Exclusivo para enfermagem e sim é o mesmo slide do 2° ano",
         link: "https://www.canva.com/design/DAGxvewuVcQ/fQm7OX_8gq-5u9ytKvp8pw/view?utm_content=DAGxvewuVcQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h694cd967b3"
     },{
-        img: "nucleo.png",
-        titulo: "Núcleo celular",
-        descricao: "Estruturas do núcleo, cromossomos e alterações cromossômicas",
-        link: "https://www.canva.com/design/DAGyknHBoJE/1Tmuy9Gg7Lax9jNmHxITqg/view?utm_content=DAGyknHBoJE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb04f80502a"
-    },{
         img: "embrio1.jpeg",
         titulo: "Atividade embriologia - Apenas para enfermagem",
         descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui! <b> Data de entrega: 05/nov </b>",
@@ -31,9 +26,9 @@ const ano1 = [
         link: "https://www.canva.com/design/DAG3YDQgxa4/O5Ea02m251t_EfuB0rgh-A/view?utm_content=DAG3YDQgxa4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a14edbef6"
     },{
         img: "book.jpg",
-        titulo: "Exercício sobre cromossomos e alterações cromossômicas",
-        descricao: "Atividade passada em sala",
-        link: "https://docs.google.com/document/d/17jH9-MrDudKZzVutMrX_5cHsM15zwvDXJ9wOMH9mTOo/edit?usp=sharing"
+        titulo: "Atividade de revisão para a bimestral",
+        descricao: "Atividade para a revisão da prova bimestral, não será cobrada, mas recomendo o estudo desse TD",
+        link: "https://docs.google.com/document/d/1Q7xRFgpnNSYCItnShkKoZNN0qsK6RfZr/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     }
 ]
 
