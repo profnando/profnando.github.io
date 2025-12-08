@@ -22,7 +22,7 @@ const ano1 = [
     },{
         img: "book.jpg",
         titulo: "Atividade de revisão para a bimestral",
-        descricao: "Atividade para a revisão da prova bimestral, não será cobrada, mas recomendo o estudo desse TD",
+        descricao: "Atividade para a revisão da prova bimestral. Não será cobrada, mas recomendo o estudo desse TD",
         link: "https://docs.google.com/document/d/1Q7xRFgpnNSYCItnShkKoZNN0qsK6RfZr/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
     }
 ]
