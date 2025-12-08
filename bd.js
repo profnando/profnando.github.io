@@ -10,11 +10,6 @@ const ano1 = [
         descricao: "Exclusivo para enfermagem e sim é o mesmo slide do 2° ano",
         link: "https://www.canva.com/design/DAGxvewuVcQ/fQm7OX_8gq-5u9ytKvp8pw/view?utm_content=DAGxvewuVcQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h694cd967b3"
     },{
-        img: "embrio1.jpeg",
-        titulo: "Atividade embriologia - Apenas para enfermagem",
-        descricao: "Essa atividade é do primeiro ano, se você é do segundo, saia daqui! <b> Data de entrega: 05/nov </b>",
-        link: "https://docs.google.com/document/d/14XuaUQLEESHxJGgDvFW2sggdkyzQJdZG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
-    },{
         img: "Fecundação e desenvolvimento embrionário.png",
         titulo: "Fecundação e desenvolvimento embrionário",
         descricao: "Conteúdo exclusivo para a turma de enfermagem",
