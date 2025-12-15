@@ -24,6 +24,11 @@ const ano1 = [
         titulo: "Atividade de revisão para a bimestral",
         descricao: "Atividade para a revisão da prova bimestral. Não será cobrada, mas recomendo o estudo desse TD",
         link: "https://docs.google.com/document/d/1Q7xRFgpnNSYCItnShkKoZNN0qsK6RfZr/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true"
+    },{
+        img: "book.jpg",
+        titulo: "Metabolismo energético",
+        descricao: "Respiração, fermentação e fotossíntese",
+        link: "https://www.canva.com/design/DAG66_p1hik/Kw1ukZ8MK7UKKx5KL7IxSg/edit?utm_content=DAG66_p1hik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     }
 ]
 
