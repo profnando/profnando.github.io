@@ -5,8 +5,9 @@
   <meta charset="UTF-8">
   <link rel="icon" type="image/x-icon" href="img/icon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"  
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
@@ -18,25 +19,33 @@
 <script src="logica.js"></script>
 
 <body>
-  <div class="container cont">
-    <div class="row text-left">
+  
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Slides atuais</a>
 
-      <div class="col-md-4 col-sm-6 mt-3 mb-3 g-3 carta.webp">
-        <div class="card h-100" style="width: 18rem;">
-          <img src="img/thumb/monitoria.webp" class="card-img-top">
-          <div class="card-body d-flex flex-column">
-            <h5 class="card-title">Monitoria</br></h5>
-            <a target="_blank"
-              href="https://docs.google.com/document/d/1jgJAtIVLLuQV31BgJtTCAoSPoOQMybUPdBgMYFGC_zA/edit?usp=sharing"
-              class="btn btn-primary mt-auto">Visualizar resultados</a>
-          </div>
-        </div>
-      </div>
+  <button class="navbar-toggler" type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-      
-    </div>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="slides-biologia.html">Biologia</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">TD's Biologia</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Outros temas</a>
+      </li>
+    </ul>
   </div>
-
+</nav>
 
   <h1>1 ° Ano</h1>
 
@@ -74,6 +83,37 @@
       criarCard(element.img, element.titulo, element.descricao, element.link, "cards-container 3");
     });
   </script>
+
+
+<footer class="bg-dark text-light mt-5">
+  <div class="container py-4">
+    <div class="row align-items-center">
+
+      <!-- Nome e formação -->
+      <div class="col-md-8">
+        <p class="mb-0 small">
+          <strong>Fernando Soares</strong><br>
+          Licenciado em Ciências Biológicas – UFC<br>
+          Analista e Desenvolvedor de Sistemas – UNIFOR<br>
+          Técnico em Redes – Escola Profissionalizante
+        </p>
+      </div>
+
+      <!-- Instagram -->
+      <div class="col-md-4 text-md-end mt-3 mt-md-0">
+        <a href="https://instagram.com/SEU_INSTAGRAM"
+           target="_blank"
+           class="text-light text-decoration-none fs-4"
+           aria-label="Instagram científico">
+          <i class="bi bi-instagram"></i>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+
 
 </body>
 
