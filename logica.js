@@ -4,7 +4,20 @@ fetch("bd.json")
   .then(res => res.json())
   .then(dados => {
     bancoSlides = dados;
-    carregarPorTag("introducao a biologia", "lista-bio-geral");
+    carregarPorTag("introducao a biologia", "lista-bio-geral", "conteudo");
+    carregarPorTag("origem da vida", "lista-origem-vida", "conteudo");
+    carregarPorTag("citologia", "lista-citologia", "conteudo");
+    carregarPorTag("embriologia", "lista-embriologia", "conteudo");
+    carregarPorTag("sistematica", "lista-sistematica", "conteudo");
+    carregarPorTag("microbiologia", "lista-microbiologia", "conteudo");
+    carregarPorTag("parasitologia", "lista-parasitologia", "conteudo");
+    carregarPorTag("zoologia", "lista-zoologia", "conteudo");
+    carregarPorTag("botanica", "lista-botanica", "conteudo");
+    carregarPorTag("fisiologia", "lista-fisiologia", "conteudo");
+    carregarPorTag("genetica", "lista-genetica", "conteudo");
+    carregarPorTag("evolucao", "lista-evolucao", "conteudo");
+    carregarPorTag("ecologia", "lista-ecologia", "conteudo");
+    carregarPorTag("biotecnologia", "biotec", "conteudo");
   });
 
 function criarCard(imgNome, titulo, descricao, link, idconteiner) {
@@ -25,12 +38,13 @@ function criarCard(imgNome, titulo, descricao, link, idconteiner) {
   document.getElementById(idconteiner).appendChild(col);
 }
 
-function carregarPorTag(tag, idContainer) {
+function carregarPorTag(tag, idContainer, tipo) {
   const container = document.getElementById(idContainer);
   container.innerHTML = "";
 
   const filtrados = bancoSlides.filter(slide =>
-    slide.tags.includes(tag)
+    slide.tags.includes(tag) &&
+    slide.tipo == tipo
   );
 
   filtrados.forEach(slide => {

@@ -1,94 +1,263 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
-  <link rel="icon" type="image/x-icon" href="img/icon.png">
+  <title>Prof Nando | Slides de Biologia</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"  
-    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-    crossorigin="anonymous"></script>
+  <link rel="icon" type="image/x-icon" href="img/icon.png">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- CSS próprio -->
   <link rel="stylesheet" href="style.css">
-  <title>Prof Nando</title>
 </head>
 
-<script src="bd.js"></script>
-<script src="logica.js"></script>
-
 <body>
-  
+
+<!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">Slides atuais</a>
+  <div class="container">
+    <a class="navbar-brand" href="#">Slides atuais</a>
 
-  <button class="navbar-toggler" type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+    <button class="navbar-toggler" type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="slides-biologia.html">Biologia</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">TD's Biologia</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Outros temas</a>
-      </li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="slides-biologia.html">Biologia</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">TD's Biologia</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Outros temas</a>
+        </li>
+      </ul>
+    </div>
   </div>
 </nav>
 
-
-
+<!-- CONTEÚDO -->
 <div class="container my-5">
 
   <h2 class="mb-4">Conteúdos de Biologia</h2>
 
   <div id="accordionBiologia">
 
-    <!-- Tema: Biologia Geral -->
+    <!-- Biologia Geral -->
     <div class="card mb-3">
-
       <div class="card-header bg-dark text-light">
-        <button class="btn btn-link text-light text-decoration-none w-100 text-start"
-                data-bs-toggle="collapse"
-                data-bs-target="#bioGeral">
-          🧬 Biologia Geral
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#bioGeral">
+          Biologia Geral
         </button>
       </div>
-
       <div id="bioGeral" class="collapse" data-bs-parent="#accordionBiologia">
         <div class="card-body">
-
-          <div class="row" id="lista-bio-geral">
-           
-          <div class="row" id="lista-bio-geral">
-
+          <div class="row" id="lista-bio-geral"></div>
         </div>
       </div>
+    </div>
 
+    <!-- Origem da Vida -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#origemVida">
+          Origem da Vida
+        </button>
+      </div>
+      <div id="origemVida" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-origem-vida"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Citologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#citologia">
+          Citologia
+        </button>
+      </div>
+      <div id="citologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-citologia"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Embriologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#embriologia">
+        Embriologia
+        </button>
+      </div>
+      <div id="embriologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-embriologia"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sistemática -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#sistematica">
+          Sistemática
+        </button>
+      </div>
+      <div id="sistematica" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-sistematica"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Microbiologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#microbiologia">
+          Microbiologia
+        </button>
+      </div>
+      <div id="microbiologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-microbiologia"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Parasitologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#parasitologia">
+          Parasitologia
+        </button>
+      </div>
+      <div id="parasitologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-parasitologia"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Botânica -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#botanica">
+          <i class="bi bi-tree"></i> Botânica  
+        </button>
+      </div>
+      <div id="botanica" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-botanica"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Zoologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#zoologia">
+          Zoologia
+        </button>
+      </div>
+      <div id="zoologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-zoologia"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fisiologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#fisiologia">
+          Fisiologia
+        </button>
+      </div>
+      <div id="fisiologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-fisiologia"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Genética -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#genetica">
+          Genética
+        </button>
+      </div>
+      <div id="genetica" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-genetica"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Evolução -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#evolucao">
+          Evolução
+        </button>
+      </div>
+      <div id="evolucao" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-evolucao"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Ecologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#ecologia">
+          Ecologia
+        </button>
+      </div>
+      <div id="ecologia" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-ecologia"></div>
+        </div>
+      </div>
+    </div>
+
+       <!-- Biotecnologia -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#biotec">
+           Biotecnologia
+        </button>
+      </div>
+      <div id="biotec" class="collapse" data-bs-parent="#accordionBiologia">
+        <div class="card-body">
+          <div class="row" id="lista-biotec"></div>
+        </div>
+      </div>
     </div>
 
   </div>
 </div>
 
 
-
-
+<!-- FOOTER -->
 <footer class="bg-dark text-light mt-5">
   <div class="container py-4">
     <div class="row align-items-center">
 
-      <!-- Nome e formação -->
       <div class="col-md-8">
         <p class="mb-0 small">
           <strong>Fernando Soares</strong><br>
@@ -98,12 +267,10 @@
         </p>
       </div>
 
-      <!-- Instagram -->
       <div class="col-md-4 text-md-end mt-3 mt-md-0">
         <a href="https://instagram.com/SEU_INSTAGRAM"
            target="_blank"
-           class="text-light text-decoration-none fs-4"
-           aria-label="Instagram científico">
+           class="text-light fs-4 text-decoration-none">
           <i class="bi bi-instagram"></i>
         </a>
       </div>
@@ -112,11 +279,12 @@
   </div>
 </footer>
 
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
+<!-- JS do projeto -->
+<script src="bd.js" defer></script>
+<script src="logica.js" defer></script>
 
 </body>
-
-
 </html>
-
-
