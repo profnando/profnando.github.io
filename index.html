@@ -5,9 +5,9 @@
   <meta charset="UTF-8">
   <link rel="icon" type="image/x-icon" href="img/icon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
@@ -15,109 +15,111 @@
   <title>Prof Nando</title>
 </head>
 
-<script src="bd.js"></script>
-<script src="logica.js"></script>
 
 <body>
-  
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">Slides atuais</a>
 
-  <button class="navbar-toggler" type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="index.html">Slides atuais</a>
 
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="slides-biologia.html">Biologia</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">TD's Biologia</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Outros temas</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <h1>1 ° Ano</h1>
-
-  <div class="container cont">
-    <div id="cards-container 1" class="row text-left"></div>
-  </div>
-
-  <script>
-    ano1.forEach(element => {
-      criarCard(element.img, element.titulo, element.descricao, element.link, "cards-container 1");
-    });
-  </script>
-
-
-  <h1>2 ° Ano</h1>
-
-  <div class="container cont">
-    <div id="cards-container 2" class="row text-left"></div>
-  </div>
-
-  <script>
-    ano2.forEach(element => {
-      criarCard(element.img, element.titulo, element.descricao, element.link, "cards-container 2");
-    });
-  </script>
-
-  <h1>3 ° Ano</h1>
-
-  <div class="container cont">
-    <div id="cards-container 3" class="row text-left"></div>
-  </div>
-
-  <script>
-    ano3.forEach(element => {
-      criarCard(element.img, element.titulo, element.descricao, element.link, "cards-container 3");
-    });
-  </script>
-
-
-<footer class="bg-dark text-light mt-5">
-  <div class="container py-4">
-    <div class="row align-items-center">
-
-      <!-- Nome e formação -->
-      <div class="col-md-8">
-        <p class="mb-0 small">
-          <strong>Fernando Soares</strong><br>
-          Licenciado em Ciências Biológicas – UFC<br>
-          Analista e Desenvolvedor de Sistemas – UNIFOR<br>
-          Técnico em Redes – Escola Profissionalizante
-        </p>
-      </div>
-
-      <!-- Instagram -->
-      <div class="col-md-4 text-md-end mt-3 mt-md-0">
-        <a href="https://instagram.com/SEU_INSTAGRAM"
-           target="_blank"
-           class="text-light text-decoration-none fs-4"
-           aria-label="Instagram científico">
-          <i class="bi bi-instagram"></i>
-        </a>
-      </div>
-
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="slides-biologia.html">Biologia</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="slides-outras-disciplinas.html">Outros temas</a>
+        </li>
+      </ul>
     </div>
-  </div>
-</footer>
+  </nav>
 
+  <div class="accordion" id="accordionSeries">
+
+    <!-- 1º ano -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#ano1">
+          📘 1º Ano
+        </button>
+      </div>
+      <div id="ano1" class="collapse">
+        <div class="card-body">
+          <div class="row" id="lista-1-ano"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2º ano -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#ano2">
+          📗 2º Ano
+        </button>
+      </div>
+      <div id="ano2" class="collapse">
+        <div class="card-body">
+          <div class="row" id="lista-2-ano"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3º ano -->
+    <div class="card mb-3">
+      <div class="card-header bg-dark text-light">
+        <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#ano3">
+          📕 3º Ano
+        </button>
+      </div>
+      <div id="ano3" class="collapse">
+        <div class="card-body">
+          <div class="row" id="lista-3-ano"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+
+
+  <footer class="bg-dark text-light mt-5">
+    <div class="container py-4">
+      <div class="row align-items-center">
+
+        <!-- Nome e formação -->
+        <div class="col-md-8">
+          <p class="mb-0 small">
+            <strong>Fernando Soares</strong><br>
+            Licenciado em Ciências Biológicas – UFC<br>
+            Analista e Desenvolvedor de Sistemas – UNIFOR<br>
+            Técnico em Redes – Escola Profissionalizante
+          </p>
+        </div>
+
+        <!-- Instagram -->
+        <div class="col-md-4 text-md-end mt-3 mt-md-0">
+          <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank" class="text-light text-decoration-none fs-4"
+            aria-label="Instagram científico">
+            <i class="bi bi-instagram"></i>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+  <script src="logica.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", listarConteudosAtuaisPorAno);
+  </script>
 
 
 </body>
 
 
 </html>
-
-

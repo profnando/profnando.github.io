@@ -1,24 +1,41 @@
 let bancoSlides = [];
 
-fetch("bd.json")
-  .then(res => res.json())
-  .then(dados => {
-    bancoSlides = dados;
-    carregarPorTag("introducao a biologia", "lista-bio-geral", "conteudo");
-    carregarPorTag("origem da vida", "lista-origem-vida", "conteudo");
-    carregarPorTag("citologia", "lista-citologia", "conteudo");
-    carregarPorTag("embriologia", "lista-embriologia", "conteudo");
-    carregarPorTag("sistematica", "lista-sistematica", "conteudo");
-    carregarPorTag("microbiologia", "lista-microbiologia", "conteudo");
-    carregarPorTag("parasitologia", "lista-parasitologia", "conteudo");
-    carregarPorTag("zoologia", "lista-zoologia", "conteudo");
-    carregarPorTag("botanica", "lista-botanica", "conteudo");
-    carregarPorTag("fisiologia", "lista-fisiologia", "conteudo");
-    carregarPorTag("genetica", "lista-genetica", "conteudo");
-    carregarPorTag("evolucao", "lista-evolucao", "conteudo");
-    carregarPorTag("ecologia", "lista-ecologia", "conteudo");
-    carregarPorTag("biotecnologia", "biotec", "conteudo");
-  });
+function listarBiologia() {
+
+  fetch("bd.json")
+    .then(res => res.json())
+    .then(dados => {
+      bancoSlides = dados;
+
+      carregarPorTag("introducao a biologia", "lista-bio-geral", "conteudo");
+      carregarPorTag("origem da vida", "lista-origem-vida", "conteudo");
+      carregarPorTag("citologia", "lista-citologia", "conteudo");
+      carregarPorTag("embriologia", "lista-embriologia", "conteudo");
+      carregarPorTag("sistematica", "lista-sistematica", "conteudo");
+      carregarPorTag("microbiologia", "lista-microbiologia", "conteudo");
+      carregarPorTag("parasitologia", "lista-parasitologia", "conteudo");
+      carregarPorTag("zoologia", "lista-zoologia", "conteudo");
+      carregarPorTag("botanica", "lista-botanica", "conteudo");
+      carregarPorTag("fisiologia", "lista-fisiologia", "conteudo");
+      carregarPorTag("genetica", "lista-genetica", "conteudo");
+      carregarPorTag("evolucao", "lista-evolucao", "conteudo");
+      carregarPorTag("ecologia", "lista-ecologia", "conteudo");
+      carregarPorTag("biotecnologia", "biotec", "conteudo");
+    });
+}
+
+function listarOutrasDisciplinas() {
+
+  fetch("bd.json")
+    .then(res => res.json())
+    .then(dados => {
+      bancoSlides = dados;
+
+      carregarPorTag("geografia", "lista-geografia", "conteudo");
+      carregarPorTag("fisica", "lista-fisica", "conteudo");
+      carregarPorTag("informatica", "lista-informatica", "conteudo");
+    });
+}
 
 function criarCard(imgNome, titulo, descricao, link, idconteiner) {
   const col = document.createElement("div");
@@ -39,12 +56,13 @@ function criarCard(imgNome, titulo, descricao, link, idconteiner) {
 }
 
 function carregarPorTag(tag, idContainer, tipo) {
+
   const container = document.getElementById(idContainer);
   container.innerHTML = "";
 
   const filtrados = bancoSlides.filter(slide =>
     slide.tags.includes(tag) &&
-    slide.tipo == tipo
+    slide.tipo === tipo
   );
 
   filtrados.forEach(slide => {
@@ -57,3 +75,46 @@ function carregarPorTag(tag, idContainer, tipo) {
     );
   });
 }
+
+function listarPorSerie(serie, idContainer) {
+
+  const container = document.getElementById(idContainer);
+  if (!container) return;
+
+  container.innerHTML = "";
+
+  const filtrados = bancoSlides.filter(slide => {
+
+    const series = String(slide.serie).split("|");
+
+    return (
+      series.includes(String(serie)) &&
+      slide.atual === true &&
+      (slide.tipo === "conteudo" || slide.tipo === "questoes")
+    );
+  });
+
+  filtrados.forEach(slide => {
+    criarCard(
+      slide.img,
+      slide.titulo,
+      slide.descricao || "",
+      slide.link,
+      idContainer
+    );
+  });
+}
+
+function listarConteudosAtuaisPorAno() {
+
+  fetch("bd.json")
+    .then(res => res.json())
+    .then(dados => {
+      bancoSlides = dados;
+
+      listarPorSerie("1", "lista-1-ano", "conteudo");
+      listarPorSerie("2", "lista-2-ano", "conteudo");
+      listarPorSerie("3", "lista-3-ano", "conteudo");
+    });
+}
+

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Prof Nando | Slides de Biologia</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="img/icon.png">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- CSS próprio -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Slides atuais</a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="slides-biologia.html">Biologia</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="slides-outras-disciplinas.html">Outros temas</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- CONTEÚDO -->
+  <div class="container my-5">
+
+    <h2 class="mb-4">Conteúdos de Biologia</h2>
+
+    <div class="accordion" id="accordionOutras">
+
+      <!-- Geografia -->
+      <div class="card mb-3">
+        <div class="card-header bg-dark text-light">
+          <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#geo">
+            🌍 Geografia
+          </button>
+        </div>
+        <div id="geo" class="collapse" data-bs-parent="#accordionOutras">
+          <div class="card-body">
+            <div class="row" id="lista-geografia"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Física -->
+      <div class="card mb-3">
+        <div class="card-header bg-dark text-light">
+          <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#fis">
+            ⚛️ Física
+          </button>
+        </div>
+        <div id="fis" class="collapse" data-bs-parent="#accordionOutras">
+          <div class="card-body">
+            <div class="row" id="lista-fisica"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Informática -->
+      <div class="card mb-3">
+        <div class="card-header bg-dark text-light">
+          <button class="btn btn-dark w-100 text-start" data-bs-toggle="collapse" data-bs-target="#info">
+            💻 Informática
+          </button>
+        </div>
+        <div id="info" class="collapse" data-bs-parent="#accordionOutras">
+          <div class="card-body">
+            <div class="row" id="lista-informatica"></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+    <!-- FOOTER -->
+    <footer class="bg-dark text-light mt-5">
+      <div class="container py-4">
+        <div class="row align-items-center">
+
+          <div class="col-md-8">
+            <p class="mb-0 small">
+              <strong>Fernando Soares</strong><br>
+              Licenciado em Ciências Biológicas – UFC<br>
+              Analista e Desenvolvedor de Sistemas – UNIFOR<br>
+              Técnico em Redes – Escola Profissionalizante
+            </p>
+          </div>
+
+          <div class="col-md-4 text-md-end mt-3 mt-md-0">
+            <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank" class="text-light fs-4 text-decoration-none">
+              <i class="bi bi-instagram"></i>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- JS do projeto -->
+    <script src="bd.js" defer></script>
+    <script src="logica.js" defer></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        listarOutrasDisciplinas();
+      });
+    </script>
+
+</body>
+
+</html>
