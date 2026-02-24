@@ -507,5 +507,25 @@
    "tipo": "conteudo",
    "serie": "2",
    "atual": true
+ },
+ {
+   "titulo": "Síntese proteíca",
+   "descricao": "",
+   "link": "https://www.canva.com/design/DAGxGDCLKiw/RRbB6DvWtIGK_sVLI6D_dA/view?utm_content=DAGxGDCLKiw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7981248c8a",
+   "img": "Sínetese proteíca.png",
+   "tags": "genetica|citologia",
+   "tipo": "conteudo",
+   "serie": "3",
+   "atual": true
+ },
+ {
+   "titulo": "Td - Síntese proteíca",
+   "descricao": "",
+   "link": "https://docs.google.com/document/d/17l_htInwKOQgYPFfDZz-sSAIcwa7wTtYrO5FYcne4A8/edit?usp=sharing",
+   "img": "caderno.png",
+   "tags": "genetica|citologia",
+   "tipo": "questao",
+   "serie": "3",
+   "atual": true
  }
 ]
