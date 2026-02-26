@@ -231,13 +231,13 @@
  },
  {
    "titulo": "Parasitologia",
-   "descricao": "Introdução e protozooses",
+   "descricao": "Introdução e protozooses (Exclusivo para a enfermagem)",
    "link": "https://www.canva.com/design/DAGfeAYKLJ8/1dvUa6z343JT8In7fuhI0g/view?utm_content=DAGfeAYKLJ8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6318294319",
    "img": "Parasitologia.jpg",
    "tags": "zoologia|parasitologia",
    "tipo": "conteudo",
-   "serie": "2",
-   "atual": false
+   "serie": "3",
+   "atual": true
  },
  {
    "titulo": "Vitaminas",
