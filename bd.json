@@ -261,13 +261,13 @@
  },
  {
    "titulo": "Minerais",
-   "descricao": "",
+   "descricao": "Exclusivo para o enfermagem",
    "link": "https://www.canva.com/design/DAGkCs6OaCU/TQOgL5uQKWOEyMEBg_lUBg/view?utm_content=DAGkCs6OaCU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdb882591bd",
    "img": "Nutrição humana Minerais.png",
    "tags": "bioquimica",
    "tipo": "conteudo",
-   "serie": "1",
-   "atual": false
+   "serie": "2",
+   "atual": true
  },
  {
    "titulo": "Questões níveis de organização dos seres vivos",
