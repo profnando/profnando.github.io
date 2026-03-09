@@ -1,5 +1,15 @@
 let bancoSlides = [];
 
+function buscarCertificado() {
+
+  let id = prompt("Digite o ID do certificado:");
+
+  if (id && id.trim() !== "") {
+    window.location.href = "verifica_certificados.html?id=" + encodeURIComponent(id);
+  }
+
+}
+
 function listarBiologia() {
 
   fetch("bd.json")
