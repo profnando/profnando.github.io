@@ -57,7 +57,7 @@ function criarCard(imgNome, titulo, descricao, link, idconteiner) {
       <div class="card-body d-flex flex-column">
         <h5 class="card-title">${titulo}</h5>
         <p class="card-text">${descricao}</p>
-        <a target="_blank" href="${link}" class="btn btn-primary mt-auto">Go</a>
+        <a target="_blank" href="${link}" class="btn btn-primary mt-auto">Ir</a>
       </div>
     </div>
   `;
