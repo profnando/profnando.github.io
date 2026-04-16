@@ -270,6 +270,16 @@
     "atual": true
   },
   {
+    "titulo": "Sais minerais",
+    "descricao": "Exclusivo para o enfermagem",
+    "link": "https://www.canva.com/design/DAGkCs6OaCU/TQOgL5uQKWOEyMEBg_lUBg/view?utm_content=DAGkCs6OaCU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdb882591bd",
+    "img": "Nutrição humana Minerais.png",
+    "tags": "bioquimica",
+    "tipo": "conteudo",
+    "serie": "1",
+    "atual": true
+  }
+  {
     "titulo": "Questões níveis de organização dos seres vivos",
     "descricao": "",
     "link": "https://www.canva.com/design/DAGjlHfX_1E/XHpA58HbHA32axnbQjoLRQ/view?utm_content=DAGjlHfX_1E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce847d3bc6",
@@ -556,6 +566,36 @@
     "img": "protistas.webp",
     "tags": "microbiologia",
     "tipo": "questoes",
+    "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Reino fungi",
+    "descricao": "",
+    "link": "https://canva.link/zsva0712nzz3uur",
+    "img": "fungi.png",
+    "tags": "microbiologia",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Introdução a botâncica e criptógamas",
+    "descricao": "",
+    "link": "https://canva.link/puz7qbo801hgggj",
+    "img": "plantae.png",
+    "tags": "botanica",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Atividade de fungos e criptógamas",
+    "descricao": "",
+    "link": "https://docs.google.com/document/d/1dzyHsBHlyO-hcD4hGcnv3decE3UiQZgMS0ZdVfKttHQ/edit?usp=sharing",
+    "img": "samambaia.jpeg",
+    "tags": "botanica",
+    "tipo": "conteudo",
     "serie": "2",
     "atual": true
   }
