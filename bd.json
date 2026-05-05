@@ -271,7 +271,7 @@
   },
   {
     "titulo": "Sais minerais",
-    "descricao": "Exclusivo para o enfermagem",
+    "descricao": "",
     "link": "https://www.canva.com/design/DAGkCs6OaCU/TQOgL5uQKWOEyMEBg_lUBg/view?utm_content=DAGkCs6OaCU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdb882591bd",
     "img": "Nutrição humana Minerais.png",
     "tags": "bioquimica",
@@ -327,7 +327,7 @@
     "tags": "introducao a biologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Questões métodologia científica",
@@ -467,7 +467,7 @@
     "tags": "microbiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Visão humana",
@@ -487,7 +487,7 @@
     "tags": "sistematica",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - sistemática",
@@ -497,7 +497,7 @@
     "tags": "sistematica",
     "tipo": "questoes",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Níveis de organização da vida",
@@ -507,7 +507,7 @@
     "tags": "introducao a biologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - vírus",
@@ -517,7 +517,7 @@
     "tags": "microbiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Síntese proteíca",
@@ -527,7 +527,7 @@
     "tags": "genetica|citologia",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Síntese proteíca",
@@ -537,7 +537,7 @@
     "tags": "genetica|citologia",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Bactérias",
@@ -547,7 +547,7 @@
     "tags": "microbiologia",
     "tipo": "questoes",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Reino Protista",
@@ -557,7 +557,7 @@
     "tags": "microbiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Reino protista",
@@ -567,7 +567,7 @@
     "tags": "microbiologia",
     "tipo": "questoes",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Reino fungi",
@@ -590,10 +590,20 @@
     "atual": true
   },
   {
-    "titulo": "Atividade de fungos e criptógamas",
+    "titulo": "Atividade de fungos e sistemática de plantas",
     "descricao": "",
-    "link": "https://docs.google.com/document/d/1dzyHsBHlyO-hcD4hGcnv3decE3UiQZgMS0ZdVfKttHQ/edit?usp=sharing",
+    "link": "https://docs.google.com/document/d/114XO41w9E8XGO2cGj0g3T1NrQ6yqCWnw/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true",
     "img": "samambaia.jpeg",
+    "tags": "botanica",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Fanerógamas",
+    "descricao": "",
+    "link": "https://canva.link/re3zrval2irt29l",
+    "img": "fanerógamas.png",
     "tags": "botanica",
     "tipo": "conteudo",
     "serie": "2",
