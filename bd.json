@@ -227,7 +227,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Parasitologia",
@@ -407,7 +407,7 @@
     "tags": "zoologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Revisão de citologia e histologia",
@@ -607,6 +607,26 @@
     "tags": "botanica",
     "tipo": "conteudo",
     "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Padrões de heranças não mendelianas",
+    "descricao": "Dominância incompleta e codominância",
+    "link": "https://canva.link/o8eb72hwnvrq8sg",
+    "img": "Dominância incompleta e codominância.png",
+    "tags": "genetica",
+    "tipo": "conteudo",
+    "serie": "3",
+    "atual": true
+  },
+  {
+    "titulo": "Padrões de heranças não mendelianas",
+    "descricao": "Outros padrões de herança não mendelianos, tipos sanguineos e transfusão sanguinea",
+    "link": "https://canva.link/e3cu7d47ri8063m",
+    "img": "Padrões de herança não mendelianos Parte 2.png",
+    "tags": "genetica",
+    "tipo": "conteudo",
+    "serie": "3",
     "atual": true
   }
 ]
