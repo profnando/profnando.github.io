@@ -217,7 +217,16 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
+  },{
+    "titulo": "Site contagem de dados nutricionais",
+    "descricao": "",
+    "link": "https://www.canva.com/design/DAGoLmcDq6Q/sWCoaYKuvH35nG3uuaAL_A/view?utm_content=DAGoLmcDq6Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf39370aeb5",
+    "img": "Lipídeos.png",
+    "tags": "bioquimica",
+    "tipo": "conteudo",
+    "serie": "1",
+    "atual": true
   },
   {
     "titulo": "Carboidratos",
@@ -226,6 +235,26 @@
     "img": "Carboidratos.png",
     "tags": "bioquimica",
     "tipo": "conteudo",
+    "serie": "1",
+    "atual": true
+  },
+  {
+    "titulo": "Carboidratos",
+    "descricao": "Exclusivo para o enfermagem",
+    "link": "https://www.canva.com/design/DAGn6GL-RX0/oX_AiWtmZuzib5Gx5YmwhA/view?utm_content=DAGn6GL-RX0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c1c3b0071",
+    "img": "Carboidratos.png",
+    "tags": "bioquimica",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Atividade - Análise da Rotina Alimentar",
+    "descricao": "",
+    "link": "https://docs.google.com/document/d/1LKIVEg_LTnaSFZ3oLmGEDvEr8mHjwnFZ/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true",
+    "img": "alimentacao-cerebro.jpeg",
+    "tags": "bioquimica",
+    "tipo": "questoes",
     "serie": "1",
     "atual": true
   },
