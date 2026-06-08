@@ -668,5 +668,23 @@
     "tipo": "conteudo",
     "serie": "3",
     "atual": true
+  },{
+    "titulo": "Proteínas",
+    "descricao": "",
+    "link": "",
+    "img": "Proteínas.png",
+    "tags": "bioquimica",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },{
+    "titulo": "Heredogramas",
+    "descricao": "",
+    "link": "https://canva.link/ppo7dwpvrlccgtc",
+    "img": "Proteínas.png",
+    "tags": "genetica",
+    "tipo": "conteudo",
+    "serie": "3",
+    "atual": true
   }
 ]
