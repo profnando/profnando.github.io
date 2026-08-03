@@ -696,5 +696,14 @@
     "tipo": "conteudo",
     "serie": "3",
     "atual": true
+  },{
+    "titulo": "Moluscos",
+    "descricao": "",
+    "link": "https://canva.link/c27g4uxybjedn1g",
+    "img": "moluscos.png",
+    "tags": "genetica",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
   }
 ]
