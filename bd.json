@@ -157,7 +157,7 @@
     "tags": "zoologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Embriologia: Introdução e espermatogênese",
@@ -227,7 +227,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Carboidratos",
@@ -237,7 +237,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Carboidratos",
@@ -247,7 +247,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Atividade - Análise da Rotina Alimentar",
@@ -257,7 +257,7 @@
     "tags": "bioquimica",
     "tipo": "questoes",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Envio atividade - Análise da Rotina Alimentar",
@@ -267,7 +267,7 @@
     "tags": "bioquimica",
     "tipo": "questoes",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Parasitologia",
@@ -277,7 +277,7 @@
     "tags": "zoologia|parasitologia",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Vitaminas",
@@ -297,7 +297,7 @@
     "tags": "zoologia|parasitologia",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Sais minerais",
@@ -307,7 +307,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Sais minerais",
@@ -317,7 +317,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Questões níveis de organização dos seres vivos",
@@ -407,7 +407,7 @@
     "tags": "zoologia",
     "tipo": "questoes",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Origem da vida",
@@ -686,7 +686,7 @@
     "tags": "bioquimica",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },{
     "titulo": "Heredogramas",
     "descricao": "",
@@ -695,7 +695,7 @@
     "tags": "genetica",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },{
     "titulo": "Moluscos",
     "descricao": "",
