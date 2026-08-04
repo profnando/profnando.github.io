@@ -457,7 +457,7 @@
     "tags": "zoologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Revisão de citologia e histologia",
@@ -627,7 +627,7 @@
     "tags": "microbiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Introdução a botânica e criptógamas",
@@ -637,7 +637,7 @@
     "tags": "botanica",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Atividade de fungos e sistemática de plantas",
@@ -647,7 +647,7 @@
     "tags": "botanica",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Fanerógamas",
@@ -657,7 +657,7 @@
     "tags": "botanica",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Padrões de heranças não mendelianas",
@@ -667,7 +667,7 @@
     "tags": "genetica",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Padrões de heranças não mendelianas",
@@ -677,7 +677,7 @@
     "tags": "genetica",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },{
     "titulo": "Proteínas",
     "descricao": "",
