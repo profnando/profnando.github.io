@@ -37,7 +37,7 @@
     "tags": "evolucao",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Núcleo celular",
@@ -217,7 +217,7 @@
     "tags": "evolucao",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Lipideos",
