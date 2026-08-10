@@ -701,7 +701,16 @@
     "descricao": "",
     "link": "https://canva.link/c27g4uxybjedn1g",
     "img": "moluscos.png",
-    "tags": "genetica",
+    "tags": "zoologia",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },{
+    "titulo": "Artrópodes",
+    "descricao": "",
+    "link": "https://canva.link/cqqtsm6wuc7nxd1",
+    "img": "Artrópodes.png",
+    "tags": "zoologia",
     "tipo": "conteudo",
     "serie": "2",
     "atual": true
