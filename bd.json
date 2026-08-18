@@ -187,7 +187,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Transporte via membrana: Osmose",
@@ -197,7 +197,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Transporte via membrana: Transporte passivo",
@@ -207,7 +207,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Evolução",
