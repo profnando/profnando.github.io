@@ -111,12 +111,12 @@
   },
   {
     "titulo": "Soros e vacinas Aulão enem",
-    "descricao": "",
+    "descricao": "Aulão enem",
     "link": "https://www.canva.com/design/DAG3FFpkz9E/DcxFRHuO-LxpzyBvudwe8A/edit?utm_content=DAG3FFpkz9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     "img": "Soros e vacinas Aulão enem.png",
     "tags": "fisiologia|microbiologia|biotecnologia",
     "tipo": "conteudo",
-    "serie": "2|3",
+    "serie": "3",
     "atual": true
   },
   {
@@ -182,7 +182,7 @@
   {
     "titulo": "Transporte via membrana: Transporte ativo",
     "descricao": "",
-    "link": "",
+    "link": "https://canva.link/a0waelc3c1127ez",
     "img": "transporteAtivo.png",
     "tags": "citologia",
     "tipo": "conteudo",
