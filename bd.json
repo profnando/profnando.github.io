@@ -142,7 +142,7 @@
   {
     "titulo": "Citoplasma",
     "descricao": "",
-    "link": "https://www.canva.com/design/DAGzEKkJFiI/v3A5R6NGUijOCUtC712Hhg/view?utm_content=DAGzEKkJFiI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1aabdca943",
+    "link": "https://canva.link/6r5lh1rq62hnbna",
     "img": "Citoplasma.png",
     "tags": "citologia",
     "tipo": "conteudo",
@@ -711,6 +711,24 @@
     "link": "https://canva.link/cqqtsm6wuc7nxd1",
     "img": "Artrópodes.png",
     "tags": "zoologia",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },{
+    "titulo": "Evolução Parte 2",
+    "descricao": "Neodarwinismo, neolamarckismo, coevolução e estratégias antipredatórias",
+    "link": "https://canva.link/bqa72j1ptmzcz1u",
+    "img": "evolução p.2.png",
+    "tags": "evolucao",
+    "tipo": "conteudo",
+    "serie": "3",
+    "atual": true
+  },{
+    "titulo": "Sistema digestivo",
+    "descricao": "",
+    "link": "https://canva.link/d7chin676ki3l0a",
+    "img": "Sistema digestivo.png",
+    "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
     "atual": true
