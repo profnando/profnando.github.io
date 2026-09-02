@@ -147,7 +147,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Platelmintos e nematelmintos",
@@ -678,7 +678,8 @@
     "tipo": "conteudo",
     "serie": "3",
     "atual": false
-  },{
+  },
+  {
     "titulo": "Proteínas",
     "descricao": "",
     "link": "https://canva.link/8zw8u6qa2py6y1j",
@@ -687,7 +688,8 @@
     "tipo": "conteudo",
     "serie": "1",
     "atual": false
-  },{
+  },
+  {
     "titulo": "Heredogramas",
     "descricao": "",
     "link": "https://canva.link/ppo7dwpvrlccgtc",
@@ -696,7 +698,8 @@
     "tipo": "conteudo",
     "serie": "3",
     "atual": false
-  },{
+  },
+  {
     "titulo": "Moluscos",
     "descricao": "Aula apenas para: Administração, enfermagem e segurança",
     "link": "https://canva.link/c27g4uxybjedn1g",
@@ -705,7 +708,8 @@
     "tipo": "conteudo",
     "serie": "2",
     "atual": true
-  },{
+  },
+  {
     "titulo": "Artrópodes",
     "descricao": "",
     "link": "https://canva.link/cqqtsm6wuc7nxd1",
@@ -714,7 +718,8 @@
     "tipo": "conteudo",
     "serie": "2",
     "atual": true
-  },{
+  },
+  {
     "titulo": "Evolução Parte 2",
     "descricao": "Neodarwinismo, neolamarckismo, coevolução e estratégias antipredatórias",
     "link": "https://canva.link/bqa72j1ptmzcz1u",
@@ -723,7 +728,8 @@
     "tipo": "conteudo",
     "serie": "3",
     "atual": true
-  },{
+  },
+  {
     "titulo": "Sistema digestivo",
     "descricao": "",
     "link": "https://canva.link/d7chin676ki3l0a",
@@ -732,7 +738,8 @@
     "tipo": "conteudo",
     "serie": "2",
     "atual": true
-  },{
+  },
+  {
     "titulo": "Td - Sistema digestivo",
     "descricao": "",
     "link": "https://docs.google.com/document/d/1gaF42VMtiYlzzy765ECLvYsCgUHRhJZbjo14hDfCovk/edit?usp=sharing",
@@ -740,6 +747,36 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
+    "atual": true
+  },
+  {
+    "titulo": "Td - Fixismo, lamarckismo e darwinismo",
+    "descricao": "",
+    "link": "https://docs.google.com/document/d/13sDys_9omdLoSRWLe-Bs-bdPx9Ci40WG/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true",
+    "img": "evolucao.webp",
+    "tags": "evolucao",
+    "tipo": "questoes",
+    "serie": "3",
+    "atual": true
+  },
+  {
+    "titulo": "Td - Evidências da evolução",
+    "descricao": "",
+    "link": "https://docs.google.com/document/d/1SIXVdrix9iVyFcqWsvEBjM3gaDMdAk1d/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true",
+    "img": "evolucao2.jpg",
+    "tags": "evolucao",
+    "tipo": "questoes",
+    "serie": "3",
+    "atual": true
+  },
+  {
+    "titulo": "Td - Microscopia, teoria celular e membrana plasmática",
+    "descricao": "",
+    "link": "https://docs.google.com/document/d/1w6w_ahFJxWnSPu2vra1jO014SLkdAnI0/edit?usp=sharing&ouid=113421151775825196689&rtpof=true&sd=true",
+    "img": "microscopio2.jpg",
+    "tags": "citologia",
+    "tipo": "questoes",
+    "serie": "1",
     "atual": true
   }
 ]
