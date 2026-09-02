@@ -107,7 +107,7 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Soros e vacinas Aulão enem",
@@ -728,6 +728,15 @@
     "descricao": "",
     "link": "https://canva.link/d7chin676ki3l0a",
     "img": "Sistema digestivo.png",
+    "tags": "fisiologia",
+    "tipo": "conteudo",
+    "serie": "2",
+    "atual": true
+  },{
+    "titulo": "Td - Sistema digestivo",
+    "descricao": "",
+    "link": "https://docs.google.com/document/d/1gaF42VMtiYlzzy765ECLvYsCgUHRhJZbjo14hDfCovk/edit?usp=sharing",
+    "img": "dentes.jpg",
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
