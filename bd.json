@@ -47,7 +47,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Revisão de vertebrados",
@@ -97,7 +97,7 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Sistema respiratório",
@@ -737,7 +737,7 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Sistema digestivo",
@@ -747,7 +747,7 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Fixismo, lamarckismo e darwinismo",
@@ -757,7 +757,7 @@
     "tags": "evolucao",
     "tipo": "questoes",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Evidências da evolução",
@@ -767,7 +767,7 @@
     "tags": "evolucao",
     "tipo": "questoes",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Microscopia, teoria celular e membrana plasmática",
@@ -777,7 +777,7 @@
     "tags": "citologia",
     "tipo": "questoes",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - citoplasma",
@@ -787,7 +787,7 @@
     "tags": "citologia",
     "tipo": "questoes",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Evolução P.2",
@@ -797,7 +797,7 @@
     "tags": "evolucao",
     "tipo": "questoes",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Td - Sistema respiratório",
@@ -807,6 +807,16 @@
     "tags": "fisiologia",
     "tipo": "questoes",
     "serie": "2",
+    "atual": false
+  },
+  {
+    "titulo": "Genética das populações",
+    "descricao": "",
+    "link": "https://canva.link/3g35rfwcsttebb4",
+    "img": "Genética das populações.png",
+    "tags": "evolucao",
+    "tipo": "conteudo",
+    "serie": "3",
     "atual": true
   }
 ]
