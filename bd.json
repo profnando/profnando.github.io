@@ -37,7 +37,7 @@
     "tags": "evolucao",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Núcleo celular",
@@ -107,7 +107,7 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Soros e vacinas Aulão enem",
@@ -117,7 +117,7 @@
     "tags": "fisiologia|microbiologia|biotecnologia",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Ovogênese e foliculogênese",
@@ -147,7 +147,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Platelmintos e nematelmintos",
@@ -187,7 +187,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Transporte via membrana: Osmose",
@@ -197,7 +197,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Transporte via membrana: Transporte passivo",
@@ -207,7 +207,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Evolução",
@@ -217,7 +217,7 @@
     "tags": "evolucao",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Lipideos",
@@ -507,7 +507,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Vírus e bactérias",
@@ -707,7 +707,7 @@
     "tags": "zoologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Artrópodes",
@@ -717,7 +717,7 @@
     "tags": "zoologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Evolução Parte 2",
@@ -727,7 +727,7 @@
     "tags": "evolucao",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": true
+    "atual": false
   },
   {
     "titulo": "Sistema digestivo",
