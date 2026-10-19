@@ -7,7 +7,7 @@
     "tags": "fisiologia",
     "tipo": "conteudo",
     "serie": "2",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Divisão celular",
@@ -17,7 +17,7 @@
     "tags": "citologia",
     "tipo": "conteudo",
     "serie": "1",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Sistema nervoso",
@@ -50,14 +50,14 @@
     "atual": true
   },
   {
-    "titulo": "Revisão de vertebrados",
+    "titulo": "Aulão enem - Revisão de vertebrados",
     "descricao": "Revisão de vertebrados - Aulão enem",
     "link": "https://www.canva.com/design/DAFyadVSPac/sG20Zc0SOMMg3X3RMWkjwA/view?utm_content=DAFyadVSPac&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha642dc2a00",
     "img": "Revisão de vertebrados.png",
     "tags": "zoologia",
     "tipo": "conteudo",
-    "serie": "2",
-    "atual": false
+    "serie": "2|3",
+    "atual": true
   },
   {
     "titulo": "Fecundação e desenvolvimento embrionário",
@@ -80,14 +80,14 @@
     "atual": false
   },
   {
-    "titulo": "Biotecnologia - Aulão enem",
+    "titulo": "Biotecnologia",
     "descricao": "",
     "link": "https://www.canva.com/design/DAFzsBhY_yU/leIgO2B21dOjJoGbsMSC2g/view?utm_content=DAFzsBhY_yU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c6e0c7dbb",
     "img": "biotecnologia.png",
     "tags": "biotecnologia",
     "tipo": "conteudo",
     "serie": "3",
-    "atual": false
+    "atual": true
   },
   {
     "titulo": "Sistema circulatório",
